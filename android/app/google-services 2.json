@@ -1,0 +1,69 @@
+{
+    "project_info": {
+      "project_number": "46561074267",
+      "firebase_url": "https://videocall-79604.firebaseio.com",
+      "project_id": "videocall-79604",
+      "storage_bucket": "videocall-79604.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:46561074267:android:578ad259a79e966042337e",
+          "android_client_info": {
+            "package_name": "com.rnvideochat"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "46561074267-2g8gqma680g96ud6gpcig4fedha598bv.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyCpiwirxgGVZL3K19je5o1uWRL14gFiMeQ"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "46561074267-2g8gqma680g96ud6gpcig4fedha598bv.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      },
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:46561074267:android:79fc98a8a584e44542337e",
+          "android_client_info": {
+            "package_name": "com.voximplantdemo"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "46561074267-2g8gqma680g96ud6gpcig4fedha598bv.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyCpiwirxgGVZL3K19je5o1uWRL14gFiMeQ"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "46561074267-2g8gqma680g96ud6gpcig4fedha598bv.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>523621663917-k25m49vaginooien87g7c0n1q056c431.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.523621663917-k25m49vaginooien87g7c0n1q056c431</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDRoQPYmLYU2w1HEx58Ex9lB9v2P8HnsVs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>523621663917</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.altaifislamicbanking.RNVideoChat</string>
+	<key>PROJECT_ID</key>
+	<string>videocall-6d0e5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>videocall-6d0e5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:523621663917:ios:52152d28e4dc85aa023224</string>
+	<key>DATABASE_URL</key>
+	<string>https://videocall-6d0e5.firebaseio.com</string>
+</dict>
+</plist>

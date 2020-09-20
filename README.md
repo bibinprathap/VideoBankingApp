@@ -5,7 +5,7 @@ https://adroitclouderp.com/react-native-android/hire-software-developer.html
 
  Using this New Customers Can Open New account by Submitting their Documents , signature , fill up form etc. then Customer can make video call with Agent. Using this App Customers can Book an appointment for Opening New Account or Do a remittance.
  
- ## Web Admin Panel for Accepting the video call
+ ## Web Admin Panel for receiving the video call
  
  https://adroitclouderp.com/altaifislamicbank/
  

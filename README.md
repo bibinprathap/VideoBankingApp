@@ -1,6 +1,6 @@
 https://adroitclouderp.com/react-native-android/hire-software-developer.html 
 
-## Install This App on you Android Phone 
+## Install this App on your Android Phone 
 https://adroitclouderp.com/tibvbs.html
 
 ## Open BANK Account through Video Call

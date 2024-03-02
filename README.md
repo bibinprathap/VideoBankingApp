@@ -1,3 +1,14 @@
+<p align="center"> 
+<img alt="stars" title="stars" src="https://img.shields.io/github/stars/bibinprathap/VideoBankingApp" />
+<img alt="issues" title="issues" src="https://img.shields.io/github/issues/bibinprathap/VideoBankingApp" />
+<img alt="forks" title="forks" src="https://img.shields.io/github/forks/bibinprathap/VideoBankingApp" />
+<img alt="stars" title="stars" src="https://img.shields.io/github/stars/bibinprathap/VideoBankingApp" />
+<img alt="license" title="license" src="https://img.shields.io/github/license/bibinprathap/VideoBankingApp" />
+<a href="https://linkedin.com/in/bibin-prathap-4a34a489/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+</a>
+
+</p>
 <a href="https://experttutorshub.com" target="_blank"> experttutorshub.com </a> 
 
 ## Install this App on your Android Phone 
